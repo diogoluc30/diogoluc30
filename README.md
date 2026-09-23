@@ -192,7 +192,7 @@ Já explorei **HTML, CSS e JavaScript**, dei meus primeiros passos em **Java** e
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/diogoluc30](https://www.linkedin.com/in/diogo-lucas-6b11473b5/)"><img src="https://img.shields.io/badge/LINKEDIN-0d1326?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/diogo-lucas-6b11473b5/"><img src="https://img.shields.io/badge/LINKEDIN-0d1326?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/></a>
   <a href="https://github.com/diogoluc30"><img src="https://img.shields.io/badge/GITHUB-0d1326?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:dfraga304@gmail.com.com"><img src="https://img.shields.io/badge/E--MAIL-0d1326?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="E-mail"/></a>
   <a href="https://instagram.com/diogoluc30"><img src="https://img.shields.io/badge/INSTAGRAM-0d1326?style=for-the-badge&logo=instagram&logoColor=ff2bd6" alt="Instagram"/></a>
