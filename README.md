@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" alt="Sistema inicializando: Diogo Lucas, Back-end Developer" width="100%"/>
 
 <a href="https://github.com/diogoluc30">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&height=50&lines=Ol%C3%A1%2C+mundo!+Eu+sou+SEU+NOME;Futuro+Desenvolvedor+Back-end;APIs+%7C+Bancos+de+Dados+%7C+Redes;Transformando+caf%C3%A9+em+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&height=50&lines=Ol%C3%A1%2C+mundo!+Eu+sou+Diogo+Lucas;Futuro+Desenvolvedor+Back-end;APIs+%7C+Bancos+de+Dados+%7C+Redes;Transformando+caf%C3%A9+em+c%C3%B3digo" alt="Typing SVG" />
 </a>
 
 <br/>
